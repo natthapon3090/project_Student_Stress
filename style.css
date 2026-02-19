@@ -16,3 +16,25 @@ body {
     margin-bottom: 20px;
 }
 
+.card {
+    background: rgba(255,255,255,0.1);
+    padding: 25px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
+
+.button-main {
+    background-color: #ffd700;
+    color: black;
+    padding: 12px;
+    border-radius: 10px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}
+
+.result-text {
+    font-size: 22px;
+    font-weight: bold;
+}
